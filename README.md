@@ -21,9 +21,9 @@ An automation tool designed to create, render, and upload character-based doodle
 
 Install dependencies via `pip`:
     
-    ```bash
-    pip install opencv-python-headless pillow selenium moviepy pygame bing-image-downloader
-    ```
+```bash
+pip install opencv-python-headless pillow selenium moviepy pygame bing-image-downloader
+```
 ## **Setup**
 1. **Download ChromeDriver**:
 
